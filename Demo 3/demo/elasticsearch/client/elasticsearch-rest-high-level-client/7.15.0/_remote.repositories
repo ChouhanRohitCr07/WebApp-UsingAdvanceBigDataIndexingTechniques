@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 12 01:03:05 EDT 2022
+elasticsearch-rest-high-level-client-7.15.0.jar>central=
+elasticsearch-rest-high-level-client-7.15.0-sources.jar>central=
+elasticsearch-rest-high-level-client-7.15.0.pom>central=

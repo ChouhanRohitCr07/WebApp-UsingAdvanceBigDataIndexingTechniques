@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 09 21:10:12 EDT 2022
+elasticsearch-rest-client-7.17.2.jar>central=
+elasticsearch-rest-client-7.17.2.pom>central=
+elasticsearch-rest-client-7.17.2-sources.jar>central=
